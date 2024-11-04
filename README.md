@@ -5,7 +5,8 @@ DevOps
 
 Программирую на
 - JS (TS)
-- Kotlin, Dart
+- Kotlin
+- Dart
 - PHP
 - PERL
 - Внутренний язык 1С
