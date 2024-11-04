@@ -24,7 +24,7 @@ DevOps
 
 
 Планы
-- Потихоньку врываюсь Data Science и Python
+- Потихоньку врываюсь в Data Science и Python
 
 
 Образование
