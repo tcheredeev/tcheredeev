@@ -31,5 +31,5 @@
 - Учусь на аналитика данных (курс Data Science, Skillfactory, 2024 - по настоящее время)
 
 ### Связь
-- [E-mail](tcheredeev@gmail.com)
+- [E-mail](mailto:tcheredeev@gmail.com)
 - [Telegram](https://t.me/voidozer)
